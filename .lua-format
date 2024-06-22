@@ -1,0 +1,9 @@
+-- https://github.com/LunNova/ItemButtonQualityIcons/blob/main/.lua-format
+-- Thanks, love :)
+
+indent_width: 1
+use_tab: true
+tab_width: 1
+continuation_indent_width: 1
+chop_down_table_kv: false
+chop_down_table: false

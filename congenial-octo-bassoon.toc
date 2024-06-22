@@ -1,0 +1,7 @@
+## Interface: 12345 -- TODO: Match the actual interface ID. 20240622
+## Title: Congenial Octo Bassoon
+## Notes: Little Go Fish minigame
+## Author: Lunae
+## Version: 0.0.1
+
+main.lua
